@@ -8,4 +8,4 @@
 
 **데이터셋 : 13개의 class로 이루어진 6650장의 얼굴 사진 데이터셋 (연예인 사진 크롤링)**
 
-**👉 체험하기 : https://ai-perfumer-pxbyz.run.goorm.io/AI_Perfumer/index.html**
+**👉 웹서비스 : https://ai-perfumer-pxbyz.run.goorm.io/AI_Perfumer/index.html**
