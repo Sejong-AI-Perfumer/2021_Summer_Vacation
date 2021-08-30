@@ -10,6 +10,4 @@
 
 **👉 웹서비스 : https://ai-perfumer-pxbyz.run.goorm.io/AI_Perfumer/index.html**
 
-![image](https://user-images.githubusercontent.com/70889699/131359010-39a11f58-9b15-4f70-aecf-b4983fb32b31.png)
-
 ![image](https://user-images.githubusercontent.com/70889699/131359284-2e1a5104-2ce3-4515-b6dd-cb3ccdf372b5.png)
